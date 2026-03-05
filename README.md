@@ -17,7 +17,7 @@ Unlike free online playlist converters that request full access to your accounts
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/pullclone/](https://github.com/pullclone/playlist-switch.git
+   git clone [https://github.com/pullclone/](https://github.com/pullclone/playlist-switch.git)
    cd spotify-to-apple-music
    ```
 2. Install the required Python dependencies:
